@@ -1,5 +1,6 @@
 package modelos;
 
+import modelos.Empleado;
 public abstract class Empleado {
     protected String cedula;
     protected String nombre;
